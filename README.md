@@ -47,7 +47,7 @@
   <img width="425em" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=gmoreira2128&theme=dracula&hide_border=false"/>
 </a>
 <a href="https://github.com/gmoreira2128">
-  <img width="850em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGuimaraes&theme=cobalt&show_icons=true&hide_border=false&layout=compact"/>
+  <img width="850em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmoreira2128&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 </div>
 
