@@ -35,7 +35,7 @@
 
 ### Certificações 📜
 
-- Sudotec - Curso de Programação;
+- Sudotec - Curso de Programação
 
 ---
 
