@@ -36,7 +36,6 @@
 ### Certificações 📜
 
 - Sudotec - Curso de Programação
-
 ---
 
 ### GitHub Stats ⚡
