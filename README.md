@@ -36,6 +36,9 @@
 ### Certificações 📜
 
 - Sudotec - Curso de Programação
+- Sesi Senai Dois Vizinhos - Curso Técnico de Desenvolvimento de Sistemas
+- Sesi Senai Dois Vizinhos - Curso Carreira Industrial
+- Fisk - Inglês Intermediário
 ---
 
 ### GitHub Stats ⚡
