@@ -38,6 +38,7 @@
 - Sudotec - Curso de Programação
 - Sesi Senai Dois Vizinhos - Curso Técnico de Desenvolvimento de Sistemas
 - Sesi Senai Dois Vizinhos - Curso Carreira Industrial
+- Unisep Dois Vizinhos - Análise e Desenvolvimento de Sistemas
 - Fisk - Inglês Intermediário
 ---
 
