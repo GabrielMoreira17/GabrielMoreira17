@@ -27,7 +27,7 @@
     <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img alt="SQL Server" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
     <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img alt="Git" height="40" width="40" color:"black" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img alt="Git" height="40" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)">
     <img alt="GitHub" height="40" width="40" src="https://img.icons8.com/ios-filled/50/ffffff/github.png">
     <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
