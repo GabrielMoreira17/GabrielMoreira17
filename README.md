@@ -38,6 +38,7 @@
 - Sesi Senai Dois Vizinhos - Curso Técnico de Desenvolvimento de Sistemas
 - Sesi Senai Dois Vizinhos - Curso Carreira Industrial
 - Unisep Dois Vizinhos - Análise e Desenvolvimento de Sistemas
+- Unipar Francisco Beltrão PR / Sesi Senai Dois Vizinhos - Metup Ruby On Rails
 - Fisk - Inglês Intermediário
 ---
 
