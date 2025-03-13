@@ -51,7 +51,6 @@
 <a href="https://github.com/GabrielMoreira17">
   <img width="425em" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMoreira17&theme=dracula&hide_border=false"/>
 </a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMoreira17" alt="GitHub Streak" /></a>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMoreira17" alt="GitHub Streak" /></a>
     
