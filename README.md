@@ -52,7 +52,7 @@
   <img width="425em" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMoreira17&theme=dracula&hide_border=false"/>
 </a>
 
-  <img width="850em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoreira18&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+  <img width="850em" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoreira17&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 </div>
 
