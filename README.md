@@ -3,6 +3,7 @@
 💻 Eu sou um desenvolvedor Fullstack.
 
 🎓 Formado no curso de Programação e cursando o Técnico de Desenvolvimento de Sistemas do Colégio Sesi Senai Dois Vizinhos
+🎓 Cursando Análise e Desenvolvimento de Sistemas na Unisep
 
 🔎 Sou apaixonado por desenvolvimento Web e embarcados. 
 
