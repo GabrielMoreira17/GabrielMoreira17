@@ -8,6 +8,8 @@
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Unisep
 
+🎓 Cursando Engenharia de Dados na plataforma Data Science Academy
+
 🔎 Sou apaixonado por desenvolvimento Web e embarcados. 
 
 ✒️ No meu tempo livre, gosto de aprender novas tecnologias, desenvolver projetos de software e me aprofundar nas tecnologias utilizadas no dia a dia.
